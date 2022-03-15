@@ -8,5 +8,4 @@
         src: url("#{$file-path}.woff") format("woff");
     }
 }
-@include font-face("Play", "../../fonts/Play/Play-Regular", 400);
-@include font-face("Play", "../../fonts/Play/Play-Bold", 600);
+@include font-face("Roboto", "../fonts/Roboto/Roboto-Medium", 500);
